@@ -1,6 +1,6 @@
 # Java Exercises
 
-The following repository contains my pratice of the basic of java. I learned concepts of:
+The following repository contains my basic java practices, always in continuous improvement. So far, I have learned concepts of:concepts of:
 - Polimorfism
 - Inheritance
 - Encapsulation
