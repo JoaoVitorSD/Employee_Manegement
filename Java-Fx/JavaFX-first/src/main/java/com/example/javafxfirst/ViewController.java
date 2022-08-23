@@ -1,6 +1,7 @@
 package com.example.javafxfirst;
 
 import javafx.fxml.FXML;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 
 public class ViewController {
@@ -8,6 +9,7 @@ public class ViewController {
     private Button button;
 
     public void onHelloButtonClick(){
-        System.out.println("Hello");
+       Alerts.showAlert("Alert title",null,"Hello", Alert.AlertType.ERROR);
     }
+
 }
