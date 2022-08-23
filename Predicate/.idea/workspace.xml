@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31f8833f-fb4f-44d3-be29-18c806a0de63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/Consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/out/production/Consumer/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/out/production/Consumer/GameConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/out/production/Consumer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/GameConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Predicate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Predicate/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Predicate/GamePredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Predicate/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GamePredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/../README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/comparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/comparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/entities/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/entities/GameComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/entities/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/entities/GameComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/in.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DSXrqzo6y6rAT3Yc5JdEbRauWU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/depollo/IdeaProjects/Aprendizado_Java/lambdas/Consumer"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f8833f-fb4f-44d3-be29-18c806a0de63" name="Changes" comment="" />
+      <created>1660693663172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660693663172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

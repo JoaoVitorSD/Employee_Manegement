@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,6 +11,7 @@ public class Main {
         games.add(new Game("Amoung Us", 10.59));
         games.add(new Game("Naruto ninja storm", 90.32));
         games.add(new Game("GTA V", 130.99));
-        games.forEach(Game::print);
+        List<String> names = games.stream().map(new UpperCaseName()).collect(Collectors.toList());
+        names.forEach(System.out::println);
     }
 }

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e9a8e66-88f1-4a28-bbfc-fd98d5ac2321" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/Consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/out/production/Consumer/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/out/production/Consumer/GameConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/out/production/Consumer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/GameConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/Predicate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/out/production/Predicate/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/out/production/Predicate/GamePredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/out/production/Predicate/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/src/GamePredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/../README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/comparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/comparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/entities/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/entities/GameComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/out/production/comparator/src/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/entities/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/entities/GameComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/comparator/src/in.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DSbHHW2JIcwSxt3993yObvEoRF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Function" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e9a8e66-88f1-4a28-bbfc-fd98d5ac2321" name="Changes" comment="" />
+      <created>1660695346797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660695346797</updated>
+    </task>
+    <servers />
+  </component>
+</project>
